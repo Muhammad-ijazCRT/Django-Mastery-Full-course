@@ -1,7 +1,7 @@
 # Django-Mastery-Full-course
 Django Mastery Full course
 
-
+https://i.ytimg.com/vi/EPzUN97KvNU/maxresdefault.jpg
 
 
 
